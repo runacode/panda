@@ -1,7 +1,7 @@
-<?php $company = "SHERRY HILL PAINTING LLC";
-$phone = "(631) 968-6669";
-	$address1 = "1102 QUEENS PLZ S";
-	$address2 = "LONG ISLAND CITY, NY 11101";
+<?php $company = "PAN DA BUFFET CHINA RESTAURANT";
+$phone = "(318) 253-8980";
+	$address1 = "103 FERDINAND ST";
+	$address2 = "MARKSVILLE, LA 71351";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,8 +73,8 @@ $phone = "(631) 968-6669";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Tell us about your project!</h6>
+                <h3 class="u-text u-text-7">reach us</h3>
+                <h6 class="u-text u-text-8">Tell us what you think about our food!</h6>
               </div>
             </div>
           </div>
